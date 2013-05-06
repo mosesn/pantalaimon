@@ -1,0 +1,2 @@
+# sbt specific ignores
+sbt-launch.jar
